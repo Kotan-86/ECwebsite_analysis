@@ -1,0 +1,6 @@
+自分用にメモ
+1. git add ファイル名.ipynb
+2. git commit -m "変更の内容"
+3. git push origin main
+
+※main はブランチによって変更する
