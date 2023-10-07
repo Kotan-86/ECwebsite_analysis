@@ -3,7 +3,7 @@
 ・カレントディレクトリに注意する
 ・https://github.com/ユーザ名/リポジトリ名/でリポジトリを指定する
 
-1. git add ファイル名.ipynb ※フォルダごとの場合は、git add ディレクトリ名
+1. git add ファイル名.ipynb ※フォルダごとの場合は、git add .
 2. git commit -m "変更の内容"
 3. git push origin main ※main はブランチによって変更する
 
